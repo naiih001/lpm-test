@@ -1,3 +1,7 @@
 fn add(x, y) {
     return x + y
 }
+
+fn fuck() {
+    print("Fuck yeah")
+}
